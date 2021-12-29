@@ -9,9 +9,9 @@
 ### Languages and Tools
 <img align="left" src="images/html.png" width="50">
 <img align="left" src="images/css.png" width="50">
+<img align="left" src="images/js.png" width="50">
 <img align="left" src="images/java.png" width="50">
 <img align="left" src="images/python.png" width="50">
-<img align="left" src="images/js.png" width="50">
 <img align="left" src="images/mysql.png" width="50">
 
 <img align="left" src="images/c.png" width="50">
