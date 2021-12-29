@@ -20,6 +20,8 @@
 <img align="left" src="images/github.png" width="50">
 <img align="left" src="images/linux.png" width="50"><br>
 <br>
+<br>
+<br>
 
 ### Status
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JASantacruz&show_icons=true&hide_border=true&theme=cobalt" />
