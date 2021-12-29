@@ -13,9 +13,7 @@
 <img align="left" src="images/python.png" width="50">
 <img align="left" src="images/js.png" width="50">
 <img align="left" src="images/mysql.png" width="50">
-<br>
-<br>
-<br>
+
 <img align="left" src="images/c.png" width="50">
 <img align="left" src="images/c++.png" width="50">
 <img align="left" src="images/git.png" width="50">
