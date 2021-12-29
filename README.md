@@ -8,11 +8,11 @@
 
 ### Languages and Tools
 <img align="left" src="images/html.png" width="50">
-<img align="left" src="images/css.png" width="40">
+<img align="left" src="images/css.png" width="50">
 <img align="left" src="images/java.png" width="50">
 <img align="left" src="images/python.png" width="50">
-<img align="left" src="images/js.png" width="60">
-<img align="left" src="images/mysql.png" width="100">
+<img align="left" src="images/js.png" width="50">
+<img align="left" src="images/mysql.png" width="50">
 <br>
 <br>
 <br>
@@ -21,7 +21,7 @@
 <img align="left" src="images/git.png" width="50">
 <img align="left" src="images/github.png" width="50">
 <img align="left" src="images/linux.png" width="50">
-<img align="left" src="images/mongo.png" width="100"><br>
+<img align="left" src="images/mongo.png" width="50"><br>
 <br>
 <br>
 <br>
