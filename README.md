@@ -12,14 +12,12 @@
 <img align="left" src="images/js.png" width="60">
 <img align="left" src="images/java.png" width="50">
 <img align="left" src="images/python.png" width="50">
-<img align="left" src="images/mysql.png" width="75">
-
+<img align="left" src="images/mysql.png" width="80">
 <img align="left" src="images/c.png" width="50">
 <img align="left" src="images/c++.png" width="50">
-<img align="left" src="images/git.png" width="50">
 <img align="left" src="images/github.png" width="50">
 <img align="left" src="images/linux.png" width="50">
-<img align="left" src="images/mongo.png" width="85"><br>
+<img align="left" src="images/mongo.png" width="90"><br>
 <br>
 <br>
 <br>
