@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on my university degree
 - 🌱 I’m currently learning about cybersecurity and web development
 - 👯 I’m looking to collaborate on new projects 
-- 📫 How to reach me:  
-<a href="mailto:joseantonio.santacruz00@gmail.com"><img align="center" src="images/gmail.png" width="50" /></a>
+- 📫 How to reach me:  <a href="mailto:joseantonio.santacruz00@gmail.com"><img align="center" src="images/gmail.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-antonio-santacruz-gallego-3a3177185/"><img align="center" src="images/linkedin.jpg" width="50" /></a>
 - 😄 Pronouns: He/Him
 <br>
