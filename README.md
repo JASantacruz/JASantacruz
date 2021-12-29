@@ -12,7 +12,7 @@
 <img align="left" src="images/js.png" width="60">
 <img align="left" src="images/java.png" width="50">
 <img align="left" src="images/python.png" width="50">
-<img align="left" src="images/mysql.png" width="90">
+<img align="left" src="images/mysql.png" width="80">
 
 <img align="left" src="images/c.png" width="50">
 <img align="left" src="images/c++.png" width="50">
