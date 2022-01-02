@@ -25,5 +25,5 @@
 
 
 ### Status
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JASantacruz&show_icons=true&hide_border=true&theme=cobalt" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JASantacruz&hide_border=true&theme=cobalt" />
+<img height="220em" align="left" src="https://github-readme-stats.vercel.app/api?username=JASantacruz&show_icons=true&hide_border=true&theme=cobalt" />
+<img height="220em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JASantacruz&hide_border=true&theme=cobalt" />
